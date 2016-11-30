@@ -36,7 +36,7 @@
     }
     /**
      * Throttle a named function.
-     * @param {string} name- Identifier
+     * @param {string} name - Identifier
      * @param {function} func - Function to be called once.
      * @param {number} interval - Rate limit in milliseconds.
      * @returns {boolean} - If function was called, return true, else false
