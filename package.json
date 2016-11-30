@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Throttle or limit calls to your functions. Especially useful in loops.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/zapplebee/zlimit.git"
   },
   "keywords": [
     "throttle",
